@@ -1,0 +1,46 @@
+HTML
+Em 1989, Tim Berners-Lee pegou uma linguagem de marcação genérica e acabou transformado ela no que conhecemos hoje como HTML . O HTML (HyperText Markup Language)
+é uma linguagem de marcação e não programação, e é responsável por exibir e estruturar o conteúdo no navegador, deixando textos, tabelas, imagens e outras ferramentas organizadas. 
+No decorrer dos anos, o HTML passou por diversas atualizações até chegarmos na atual, que é o HTML5. Essa versão veio para facilitar a vida do desenvolvedor e doas usuários. 
+
+HTML5
+Em 2014, o HTML recebeu a sua última versão até então, o HTML5, que foi desenvolvido para aperfeiçoar a experiência dos desenvolvedores e usuários, fornecendo suporte a áudio e vídeo em alto nível. 
+Alguns aperfeiçoamentos em relação a versões anteriores são: Uso de banco de dados da Web ao invés do cache do navegador. Semântica aprimorada, facilitando com que os desenvolvedores entendam a 
+estrutura e o propósito do conteúdo. Áudio e Vídeo Integrado, faz com que os desenvolvedores não dependam de plugins de terceiros como	o Adobe. Canvas e Gráficos 2D/3D, possibilitando a criação 
+de gráficos sem a necessidade de plugins adicionais e diversas outras melhorias.
+
+
+NAVEGADORES WEB
+
+DEFINIÇÃO: É um software que é utilizado para fazer buscas pela internet. 
+Alguns desses navegadores são Google Chrome, Microsoft Edge, Safari e Mozilla Firefox. 
+
+COMO FUNCIONAM: Os navegadores enviam e recebem informações (dados) que são exibidas em uma janela. 
+Esses dados são transferidos com um protocolo de HyperText Markup Language (HTML) que é o controlador dos arquivos de texto,imagens e vídeos. 
+Todas as informações que são exibidas para o usuário é apresentado em uma interface de usuário, assim, podendo navegar pelas paginas da web.
+
+ESTRUTURA: Todos os navegadores são compostos por componentes que estão ligados a sua estrutura, são eles: 
+UI do Navegador: Interface do navegador, exibida na tela antes de acessar os recursos da web.
+
+MOTOR DO NAVEGADOR: O “cérebro” do navegador, controla e sincroniza os elementos.
+
+MOTOR DE RENDERIZAÇÃO: Responsável por buscar recursos web e exibir a renderização no navegador. É composto por uma série de instruções escritas em diversos tipos de códigos, como, HTML, CSS, 
+JavaScript e entre outros. Esses códigos definem para o navegador o que fazer e como fazer, alguns motores de renderização são:
+
+BLINK: Um motor de código aberto baseado no WebKit. Utilizado pelo Chrome, Opera e outros, este motor foi modificado pelo google para melhorar o seu desempenho e reduzir complexidades.  
+
+GECKO: Motor de código aberto, desenvolvido pela fundação Mozilla e utilizado no Firefox. É um motor que roda em diversos sistemas operacionais como Linux, Mac, Windows e outros.
+
+WEBKIT: Motor de código aberto usado pelo Safari no OS X e iOS, além de ser usado pelo navegador nativo do Android. O WebKit se tornou open source em 2005, isso causou diversas melhorias com a colaboração de terceiros.
+
+UI BACKEND: Está relacionado ao motor de renderização, é onde encontramos elementos usados pelos navegadores para criar componentes básicos.
+
+ARMAZENAMENTO DE DADOS: É controlada por um mecanismo que permite armazenar recursos para o bom funcionamento de aplicativos da web ou cookies.
+
+
+REFERÊNCIAS:
+<https://makecreativecode.com/historia-html>;
+<https://avast.com/pt-br/c-what-is-a-web-browser>;
+<https://arquivo.canaltech.com.br/navegadores/como-os-navegadores-processam-os-codigos-de-uma-pagina-web/>;
+<https://definicao.marketing/navegador-web/#:~:text=Um%20navegador%20web%20é%20composto%20por%20diferentes%20componentes%2C,sincronizar%20os%20diferentes%20elementos%20associados.%20...%20Mais%20itens>;
+<https://www.youtube.com/watch?v=4dQtz1PpY9A&t>.
