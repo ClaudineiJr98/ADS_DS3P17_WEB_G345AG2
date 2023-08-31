@@ -1,0 +1,47 @@
+TAGS:
+
+As tags servem para estruturar um site, informando os navegadores, qual tipo de estrutura está sendo construída, como títulos, parágrafos, 
+imagens e outros. As tags tem como principal característica estar dentro dos sinais Chevron (maior que e menor que), exemplo: <tag> </tag>. Abaixo temos 
+um exemplo de uma estrutura padrão do HTML5.
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+SIGNIFICADO DAS TAGS ACIMA:
+<!DOCTYPE html>
+Informa ao navegador que esse documento é do tipo HTML e sua versão. Quando está escrito apenas html, indica que é a mais recente...
+
+<html>
+Representa a raiz do documento, serve com um container que engloba todos os outros elementos HTML.
+
+<body>
+É onde fica todo o conteúdo de texto, imagem e vídeos, em que o usuário vê e interage, nele os conteúdos são estruturados pelas demais tags do HTML.
+
+<script>
+Esse elemento contém instruções de script ou aponta para um arquivo de script externo por meio do atributo src.
+
+<head>
+Compreende as informações do documento que serão interpretadas pelo navegador (metadados). Como por exemplo, título do documento, 
+links para folhas de estilo etc.
+
+<title>
+Essa tag define o título da sua página e o nome que aparecerá na sua aba, janela ou guia. 
+
+<meta>
+Define metadados, ou seja, informações sobre dados de um documento HTML. As <meta> tags vão dentro do elemento <head> e são usadas para 
+especificar o conjunto de caracteres, o autor do documento, as configurações da janela de visualização etc.
+
+
+REFERÊNCIA:
+<https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica>.
